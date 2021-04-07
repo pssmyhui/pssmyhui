@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pssmyhui
+- 👋 Hi, I’m @someone
 - 👀 I’m interested in when I will start to have a rest on Mars
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate with Star Trek team to exploring Universe
