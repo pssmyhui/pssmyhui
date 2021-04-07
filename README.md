@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @someone
-- 👀 I’m interested in when I will start to have a rest on Mars
+- 👀 I’m interested in when I will get a rest on Mars (Elon Iam waiting for tickets)
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate with Star Trek team to exploring Universe
 - 📫 How to reach me auknexus@gmail.com
