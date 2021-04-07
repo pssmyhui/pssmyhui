@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @someone
+- 👋 Hi, I’m @rockeetman
 - 👀 I’m interested in when I will get a rest on Mars (Elon Iam waiting for tickets)
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate with Star Trek team to exploring Universe
